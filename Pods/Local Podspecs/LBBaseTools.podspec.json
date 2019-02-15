@@ -1,0 +1,22 @@
+{
+  "name": "LBBaseTools",
+  "version": "0.1.0",
+  "summary": "A short description of LBBaseTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sclibing/LBBaseTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sclibing": "18300072196@163.com"
+  },
+  "source": {
+    "git": "https://github.com/sclibing/LBBaseTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LBBaseTools/Classes/**/*"
+}
